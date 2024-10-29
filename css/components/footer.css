@@ -1,0 +1,23 @@
+.footer {
+    background-color: rgb(10, 10, 10);
+    padding-top: 70px;
+    height: 200px;
+}
+
+.fa-brands {
+    color: #1EDD88;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.fa-solid {
+    color: red;
+}
+
+.logos {
+    text-align: center;
+}
+
+#textefooter {
+    text-align: center;
+}
